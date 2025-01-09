@@ -34,10 +34,6 @@ By utilizing Natural Language Processing (NLP) techniques for topic modeling and
 ```
 
 - **README.md**: This file, providing an overview and instructions for the project.
-- **data/**: Contains all datasets used in the project.
-  - `df_filtered_lemmatized.csv`: Preprocessed and lemmatized Twitter dataset. You can download [here](https://drive.google.com/file/d/1-2DNvmakOGrnxdo3REGiPGyVilE11D_f/view?usp=sharing)
-  - `filtered_data.csv`: Filtered Twitter data based on engagement metrics. You can download [here](https://drive.google.com/file/d/1EmUDQiYkDIfl4SUjc48lJLfdjADX8qUn/view?usp=sharing)
-  - `usc-x-24-us-election/`: Directory containing the original 2024 U.S. Election Twitter dataset.
 - **hackathon.ipynb**: The executable Jupyter Notebook documenting the entire analysis workflow.
 - **hackathon_manuscript.pdf**: The manuscript detailing the research project, methodology, results, and insights.
 - **models/**: Stores machine learning models and related artifacts.
