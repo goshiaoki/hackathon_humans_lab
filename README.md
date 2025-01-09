@@ -1,4 +1,4 @@
-# humans_lab_hackathon
+# hackathon_humans_lab
 
 Welcome to the **Harnessing Twitter Data for Real-Time Topic Detection and Policy Formulation** repository. This project was developed as part of the **HUMANS Lab: PhD Applicants Hackathon**, aimed at advancing AI-Human-centered computing to address pressing societal issues.
 
